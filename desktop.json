@@ -1,5 +1,5 @@
 {
-  "client_id": "https://clients.2mg.net.au/desktop.json",
+  "client_id": "https://maliksally-ai.github.io/2mg-clients/desktop.json",
   "client_name": "2MG Desktop",
   "redirect_uris": ["http://127.0.0.1/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
